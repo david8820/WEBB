@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>WEBB</title>
+        <link>https://david8820.github.io/WEBB/index.html</link>
+        <description>News</description>
+            <item>
+                <title>Project discounts!</title>
+                <link>https://david8820.github.io/WEBB/services.html</link>
+                <description>Hello there! First 5 new clients are getting a special discount for their projects!</description>
+            </item>
+            <item>
+                <title>We are hiring!</title>
+                <link>https://david8820.github.io/WEBB/contact.html</link>
+                <description>Hey you! Are you interested in for a job? Contact us and find out what we offer!</description>
+            </item>          
+    </channel>
+</rss>
