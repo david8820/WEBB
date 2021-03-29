@@ -1,0 +1,3 @@
+user-agent: *
+
+sitemap: https://david8820.github.io/WEBB/sitemap.xml
